@@ -1,0 +1,34 @@
+.body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: rgb(122, 41, 197);
+}
+
+.quem-somos{
+    background-color: blueviolet;
+    color:azure;
+
+}
+/*padding-top cria uma margem 
+dentro do container inserido 
+ele é mais usado em sites coloridos 
+pois fica bem melhor*/
+/* ja o margin-top ele cria uma
+smargem fora do container inserido
+ele é mais utilizado em sites sem
+muita cor pois fica um visual meio feio. */
+.margin{
+     padding-bottom:30px;
+     padding-top: 10px;
+}
+.parceiros{
+    background-color: blue;
+    color:white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
